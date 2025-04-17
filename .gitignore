@@ -1,6 +1,6 @@
 # Python virtual environment
 .yash/
-env/
+.env/
 yash/
 __pycache__/
 *.pyc
