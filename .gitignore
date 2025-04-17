@@ -1,2 +1,10 @@
+# Python virtual environment
 .yash/
 env/
+yash/
+__pycache__/
+*.pyc
+
+# Windows specific
+Lib/
+Scripts/
